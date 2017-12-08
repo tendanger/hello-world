@@ -1,3 +1,3 @@
 # hello-world
-just a try
-Hi HUman
+just a try, 
+Hi Human
